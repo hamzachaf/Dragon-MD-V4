@@ -1,5 +1,5 @@
 {
-  "name": "Dragon-MD-V4",
+  "name": "NagatoMods",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://i.ibb.co/wRgDy33/20221104-225109.png",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Dragon-MD-V4", "DragonBot", "Dragon","DragonMD","multi device"],
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Mr.Ameesha"
+      "value": "NagatoMods"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -77,7 +77,7 @@
    },
    "DL_SIZE": {
     "description": "Maximum Download Size For Bot in MB  -  Ex:- 400",
-    "value": "400",
+    "value": "700",
      "required" :false
     },
       "PREFIX": {
@@ -86,7 +86,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94767453646"
+       "value": "212688263538"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here, Get from - https://replit.com/@AmiyaProgrammer/Dragon-MD-V4-QR?v=1"
@@ -107,11 +107,11 @@
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-         "value": "public"
+         "value": "private"
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "ᴅʀᴀɢᴏɴ-ᴍᴅ (ᴠ𝟺.𝟶) ✔;ᴍʀ.ᴀᴍᴇᴇsʜᴀ",
+     "value": "ᴅʀᴀɢᴏɴ-ᴍᴅ (ᴠ𝟺.𝟶) ✔; NagatoMods",
      "required": false 
   },
   "CAPTION": {
